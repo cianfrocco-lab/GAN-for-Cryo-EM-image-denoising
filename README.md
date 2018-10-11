@@ -4,3 +4,5 @@ Proof-of-principle studies with conditional generative adversarial networks to d
 Similar to the https://github.com/SpaceML/GalaxyGAN with some modifications. 
 # Dependencies
 Tensorflow1.6 CUDA9.0 CuDNN 7.0 Anaconda
+GAN-for-Cryo-EM-image-denoising/imgs/Figure1_v2.png
+      
