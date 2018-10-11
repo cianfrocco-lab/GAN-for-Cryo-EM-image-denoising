@@ -5,8 +5,15 @@ Similar to the https://github.com/SpaceML/GalaxyGAN and pix2pix(https://github.c
 ![image](https://github.com/cianfrocco-lab/GAN-for-Cryo-EM-image-denoising/blob/master/imgs/Figure1_v2.png)
 Each encode and decode is a residual block
 # Loss function 
-GAN loss + L1 loss(similar to the loss used in pix2pix in https://arxiv.org/pdf/1611.07004.pdf ) 
+GAN loss + L1 loss (similar to the loss used in pix2pix in https://arxiv.org/pdf/1611.07004.pdf ) 
 # Dependencies
 Tensorflow1.6 CUDA9.0 CuDNN 7.0 Anaconda
+# training 
+python train.py 
+you need to modify the path in the config.py
+# testing 
+python test.py
+
+
 
       
