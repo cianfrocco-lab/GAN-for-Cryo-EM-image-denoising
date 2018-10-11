@@ -1,5 +1,5 @@
 # GAN-for-Cryo-EM-image-denoising
-Proof-of-principle studies with conditional generative adversarial networks to denoise Cryo-EM images. This project is the implementation of the Paper "Generative adversarial networks as a tool to recover structural information from cryo-electron microscopy data" on python.
+Proof-of-principle studies with conditional generative adversarial networks to denoise Cryo-EM images. This project is the implementation of the Paper "Generative adversarial networks as a tool to recover structural information from cryo-electron microscopy data"(https://www.biorxiv.org/content/biorxiv/early/2018/02/12/256792.full.pdf) on python.
 # Network Architecture
 Similar to the https://github.com/SpaceML/GalaxyGAN and pix2pix(https://github.com/phillipi/pix2pix) with some modifications. 
 ![image](https://github.com/cianfrocco-lab/GAN-for-Cryo-EM-image-denoising/blob/master/imgs/Figure1_v2.png)
